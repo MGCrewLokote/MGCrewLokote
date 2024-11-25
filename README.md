@@ -29,7 +29,7 @@ Portuguese: Learning (270 days on Duolingo, knows basic phrases, pronouns, and c
 
 📫 Contact Me
 
-LinkedIn: https://www.linkedin.com/in/amaurymolinabustos/
+LinkedIn: https://www.linkedin.com/in/molina1991/
 
 🌱 Personal Interests
 
