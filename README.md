@@ -7,7 +7,7 @@ Currently, I'm thriving in my role as a Manager, Technical Consulting at Workday
 
 Current Position: Manager, Technical Consulting at Workday.<br/>
 Experience: 8+ years in Software Engineering, Data Analysis, and junior skills in Data Engineering and Cloud technologies.<br/>
-Education: Industrial Engineering in UTEL University
+Education: Master Software Dev in UTEL University
 
 🚀 Skills & Expertise
 
@@ -16,8 +16,6 @@ Certifications: Workday Financial Integrations, Aha! Product Management Professi
 
 🌟 Career Highlights
 
-Nauka Solutions: Founder of a staffing and IT consultancy firm with a mission to become a leading player in the nearshore industry by 2032.<br/>
-Estancia Infantil Cachetitos: Owner of a childcare business.<br/>
 Workday: Leading technical consulting projects and ensuring client satisfaction.<br/>
 F5 Networks: Completed two years of dedicated service, contributing significantly to the company's goals and culture.
 
@@ -25,7 +23,7 @@ F5 Networks: Completed two years of dedicated service, contributing significantl
 
 Spanish: Native<br/>
 English: Fluent<br/>
-Portuguese: Learning (270 days on Duolingo, knows basic phrases, pronouns, and colors)
+Portuguese: Learning (500 days on Duolingo, knows basic phrases, pronouns, and colors)
 
 📫 Contact Me
 
