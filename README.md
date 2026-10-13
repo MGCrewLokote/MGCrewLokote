@@ -1,38 +1,50 @@
-👋 Hello, I'm Amaury! Welcome to my GitHub profile! 
+# Hi, I'm Amaury Molina 👋
 
-I'm a passionate IT professional with a diverse background in Software Engineering, Data Analysis, and Technical Consulting.
-Currently, I'm thriving in my role as a Manager, Technical Consulting at Workday.
+**Software Integration Engineer | Backend Development | REST APIs | Data Engineering | AI Automation**
 
-🏢 About Me
+I'm a technology professional with a background in enterprise integrations, technical delivery, and solving complex system-to-system problems. My work has involved connecting business applications, transforming data, securing API access, troubleshooting integration issues, and supporting reliable production workflows.
 
-Current Position: Manager, Technical Consulting at Workday.<br/>
-Experience: 8+ years in Software Engineering, Data Analysis, and junior skills in Data Engineering and Cloud technologies.<br/>
-Education: Master Software Dev in UTEL University
+I'm expanding my public portfolio into **general software engineering**, with a focus on Python backends, APIs, data pipelines, and practical AI automation.
 
-🚀 Skills & Expertise
+## What I bring
 
-Programming Languages: Python, Java.<br/>
-Certifications: Workday Financial Integrations, Aha! Product Management Professional Certificate, Atlassian Agile Project Management Professional Certificate
+- **Enterprise integration engineering:** Workday Studio, Orchestrate, EIB, Core Connectors, XSLT, XML, JSON, and CSV.
+- **APIs and connectivity:** REST, SOAP, OAuth 2.0, SFTP, integration security, and data exchange patterns.
+- **Problem-solving and delivery:** Technical analysis, error handling, monitoring, testing, documentation, and cross-functional collaboration.
+- **Engineering mindset:** Building maintainable solutions that are understandable, testable, and useful in real workflows.
 
-🌟 Career Highlights
+## What I'm building and learning
 
-Workday: Leading technical consulting projects and ensuring client satisfaction.<br/>
-F5 Networks: Completed two years of dedicated service, contributing significantly to the company's goals and culture.
+My current development focus includes:
 
-🌐 Languages
+`Python` · `FastAPI` · `SQL` · `PostgreSQL` · `Docker` · `pytest` · `GitHub Actions` · `ETL` · `LLM APIs`
 
-Spanish: Native<br/>
-English: Fluent<br/>
-Portuguese: Learning (500 days on Duolingo, knows basic phrases, pronouns, and colors)
+These are **portfolio focus areas**, not a claim that I've used every technology professionally.
 
-📫 Contact Me
+## Portfolio roadmap
 
-LinkedIn: https://www.linkedin.com/in/molina1991/
+I'm building original, reproducible projects with synthetic data so I can demonstrate software engineering skills beyond any single enterprise platform.
 
-🌱 Personal Interests
+| Project | What it will demonstrate | Status |
+| --- | --- | --- |
+| **Service Management REST API** | Python backend design, CRUD APIs, PostgreSQL, authentication, testing, and Docker | Planned |
+| **Enterprise ETL Pipeline** | Data ingestion, transformation, validation, logging, and reliable processing | Planned |
+| **AI Incident Analyzer** | Log analysis, structured LLM outputs, API integration, and automation | Planned |
 
-Learning: Continuously expanding my knowledge in technology and management.<br/>
-Hobbies: Traveling, listeing to rap music, watching horror movies.<br/>
-Community: Actively participating in tech meetups and contributing to community growth.<br/>
+As each project is published, I'll add a link to its repository here.
 
-Thank you for visiting my GitHub profile! Feel free to reach out if you have any questions or if you'd like to collaborate on exciting projects.
+## How I approach projects
+
+- Prefer **working, testable code** over screenshots or one-off demos.
+- Document architecture, setup, design decisions, and trade-offs.
+- Use automated tests and CI where practical.
+- Keep secrets and proprietary client data out of public repositories.
+
+## Let's connect
+
+I'm interested in opportunities involving **Backend Engineering, API Development, Integration Engineering, Data Engineering, and AI Automation**.
+
+- **LinkedIn:** [linkedin.com/in/molina1991](https://www.linkedin.com/in/molina1991/)
+- **GitHub:** [github.com/MGCrewLokote](https://github.com/MGCrewLokote)
+
+Thanks for visiting!
